@@ -21,7 +21,6 @@
         
             for(i = 0; i < 5; i++)
              {
-                 // controle das entradas de valores do usuario
                  do{
                    
                      System.out.printf("entre com a coordenadas do navio " +i +": ");
